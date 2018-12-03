@@ -1,2 +1,2 @@
 # demo
-Demo sample code
+Codeigniter-3 sample codes
